@@ -23,10 +23,10 @@
 - 🦾 Conhecimentos Específicos: **Microprocessadores e microcontroladores, Redes de computadores, Hardware,
 Impressão 3D e Fotografia**
 
-- 🗣️ Línguas: **Português (Nativa)
-                Inglês (B1 Preliminary) 
-                Espanhol (Básico)
-              **
+- 🗣️ Línguas: **Português (Nativa)**
+              **Inglês (B1 Preliminary)**
+              **Espanhol (Básico)**
+             
 
 <!--
 **luiswolski/luiswolski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
