@@ -23,9 +23,7 @@
 - 🦾 Conhecimentos Específicos: **Microprocessadores e microcontroladores, Redes de computadores, Hardware,
 Impressão 3D e Fotografia**
 
-- 🗣️ Línguas: **Português (Nativa)**
-              **Inglês (B1 Preliminary)**
-              **Espanhol (Básico)**
+- 🗣️ Línguas: **Português (Nativa), Inglês (B1 Preliminary), Espanhol (Básico)**
              
 
 <!--
