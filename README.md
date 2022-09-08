@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Luis Wolksi</h1>
+<h1 align="center">Oi 👋, Eu sou o Luis Wolski</h1>
 <h3 align="center">Apaixonado por ciência, programação e robótica</h3>
 
 - 🔭 Atualmente estudo Engenharia Eletrônica na UFPR! [currículo disciplinar](https://www.eletrica.ufpr.br/p/graduacao:curriculo2019-noturno)
