@@ -20,10 +20,10 @@
 
 - 🤖 **Programas com os quais já trabalhei:** AutoCAD, KiCAD, Proteus, Altium, Fusion360, Qucs, Visual Code, PyCharm, Microchip Studio, Microsoft Word, PowerPoint, Excel, Wordpress, Adobe photoshop e premiere, DaVinci Resolve
 
-- 🦾 **Conhecimentos Específicos: **Microprocessadores e microcontroladores, Redes de computadores, Hardware,
+- 🦾 **Conhecimentos Específicos:** Microprocessadores e microcontroladores, Redes de computadores, Hardware,
 Impressão 3D e Fotografia
 
-- 🗣️ **Línguas: **Português (Nativa), Inglês (B1 Preliminary), Espanhol (Básico)
+- 🗣️ **Línguas:** Português (Nativa), Inglês (B1 Preliminary), Espanhol (Básico)
              
 
 <!--
