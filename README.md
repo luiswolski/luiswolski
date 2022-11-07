@@ -19,6 +19,18 @@
 
 <h3></h3>
 
+
+- 🤖 **Programs I've worked with:** AutoCAD, KiCAD, Proteus, Altium, Fusion360, Qucs, Visual Code, PyCharm, Microchip Studio, Microsoft Word, PowerPoint, Excel, Wordpress, Adobe photoshop, Adobe premiere and DaVinci Resolve
+
+- 🦾 **Specific knowledge:** Microprocessors and microcontrollers, Computer networks, Computer Hardware,
+3D Printing and Photography.
+
+- 🗣️ **Languages:**
+     - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/321/flag-brazil_1f1e7-1f1f7.png" alt="https://en.wikipedia.org/wiki/Brasil" height="40" width="40" />  Português (Native)  
+     - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-united-states_1f1fa-1f1f8.png" alt="https://en.wikipedia.org/wiki/English_language" height="40" width="40" /> English (B1 Preliminary) 
+     - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="https://en.wikipedia.org/wiki/Spanish_language" height="40" width="40" /> Spanish (Basic)
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiswolski&show_icons=true&count_private=true&hide_border=true&title_color=088529&icon_color=088529&text_color=c9d1d9&bg_color=0d1117" alt="Luis Wolski github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiswolski&layout=compact&hide_border=true&title_color=088529&text_color=c9d1d9&bg_color=0d1117" />
@@ -29,23 +41,19 @@
   
 ![Snake animation](https://github.com/luiswolski/luiswolski/blob/output/github-contribution-grid-snake.svg)
 
+
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luiswolski&bg_color=0d1117&color=13a121&line=48194f&point=005b3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-- 🤖 **Programas com os quais já trabalhei:** AutoCAD, KiCAD, Proteus, Altium, Fusion360, Qucs, Visual Code, PyCharm, Microchip Studio, Microsoft Word, PowerPoint, Excel, Wordpress, Adobe photoshop e premiere, DaVinci Resolve
 
-- 🦾 **Conhecimentos Específicos:** Microprocessadores e microcontroladores, Redes de computadores, Hardware,
-Impressão 3D e Fotografia
-
-- 🗣️ **Línguas:** Português (Nativa), Inglês (B1 Preliminary), Espanhol (Básico)
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luiswolski}/count.svg" /></p> 
 <br>
 </div>
-             
+         
 
 <!--
 **luiswolski/luiswolski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
