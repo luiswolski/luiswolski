@@ -1,11 +1,11 @@
-<h1 align="center">Oi 👋, Eu sou o Luis Wolski</h1>
-<h3 align="center">Apaixonado por ciência, programação e robótica</h3>
+<h1 align="center">Hi 👋, i'am Luis Wolski</h1>
+<h3 align="center"> I'am passionate about science, programming and robotics</h3>
 
-- 🔭 Atualmente estudo Engenharia Eletrônica na UFPR! [currículo disciplinar](https://www.eletrica.ufpr.br/p/graduacao:curriculo2019-noturno)
+- 🔭 I'm gradueting in Electronic Engineering UFPR! [currículo disciplinar](https://www.eletrica.ufpr.br/p/graduacao:curriculo2019-noturno)
 
-- 🌱 Atualmente estou aprendendo **Python, Django e MySQL**
+- 🌱 I'm currently learning **Python, Django e MySQL**
 
-- 📫 Você pode me achar através do e-mail **lfwolskicorrea@gmail.com**
+- 📫 You can contact me through  **[LinkedIn](https://www.linkedin.com/in/luiswolski/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,15 +19,18 @@
 
 <h3></h3>
 
-<div align="center">
-  <a href="https://github.com/luiswolski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiswolski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiswolski&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiswolski&show_icons=true&count_private=true&hide_border=true&title_color=088529&icon_color=088529&text_color=c9d1d9&bg_color=0d1117" alt="Luis Wolski github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiswolski&layout=compact&hide_border=true&title_color=088529&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <h3></h3>
 
+  
 ![Snake animation](https://github.com/luiswolski/luiswolski/blob/output/github-contribution-grid-snake.svg)
+
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luiswolski&bg_color=0d1117&color=13a121&line=48194f&point=005b3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 - 🤖 **Programas com os quais já trabalhei:** AutoCAD, KiCAD, Proteus, Altium, Fusion360, Qucs, Visual Code, PyCharm, Microchip Studio, Microsoft Word, PowerPoint, Excel, Wordpress, Adobe photoshop e premiere, DaVinci Resolve
@@ -36,6 +39,12 @@
 Impressão 3D e Fotografia
 
 - 🗣️ **Línguas:** Português (Nativa), Inglês (B1 Preliminary), Espanhol (Básico)
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luiswolski}/count.svg" /></p> 
+<br>
+</div>
              
 
 <!--
