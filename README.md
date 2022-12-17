@@ -3,7 +3,7 @@
 
 - 🔭 I'm gradueting in Electronic Engineering UFPR! [currículo disciplinar](https://www.eletrica.ufpr.br/p/graduacao:curriculo2019-noturno)
 
-- 🌱 I'm currently learning **Python, Django e MySQL**
+- 🌱 I'm currently learning **Python, Django, MySQL and C**
 
 - 📫 You can contact me through  **[LinkedIn](https://www.linkedin.com/in/luiswolski/)**
 
