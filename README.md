@@ -38,7 +38,7 @@
 3D Printing and Photography.
 
 - 🗣️ **Languages:**
-     - <img align="center" src="https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg" alt="https://em-content.zobj.net/thumbs/160/twitter/322/flag-brazil_1f1e7-1f1f7.png" height="40" width="40" />  Português (Native)  
+     - <img align="center" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-brazil_1f1e7-1f1f7.png" alt="https://en.wikipedia.org/wiki/Portuguese_language" height="40" width="40" />  Português (Native)  
      - <img align="center" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-united-states_1f1fa-1f1f8.png" alt="https://en.wikipedia.org/wiki/English_language" height="40" width="40" /> English (Advanced) 
      - <img align="center" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="https://en.wikipedia.org/wiki/Spanish_language" height="40" width="40" /> Spanish (Basic)
 <div align="center">  
