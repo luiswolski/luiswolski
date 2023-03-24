@@ -55,7 +55,7 @@
 
 
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luiswolski&bg_color=0d1117&color=13a121&line=48194f&point=005b3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Luis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luiswolski&theme=github-compact)](https://github.com/luiswolski/github-readme-activity-graph)
 
 
 
