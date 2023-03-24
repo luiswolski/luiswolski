@@ -40,7 +40,7 @@
 - 🗣️ **Languages:**
      - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/321/flag-brazil_1f1e7-1f1f7.png" alt="https://en.wikipedia.org/wiki/Brasil" height="40" width="40" />  Português (Native)  
      - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-united-states_1f1fa-1f1f8.png" alt="https://en.wikipedia.org/wiki/English_language" height="40" width="40" /> English (Advanced) 
-     - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="https://en.wikipedia.org/wiki/Spanish_language" height="40" width="40" /> Spanish (Basic)
+     - <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="https://pt.wikipedia.org/wiki/Espanha#/media/Ficheiro:Flag_of_Spain.svg" height="40" width="40" /> Spanish (Basic)
 
 
 <div align="center">  
@@ -55,7 +55,7 @@
 
 
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luiswolski&bg_color=0d1117&color=13a121&line=48194f&point=005b3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luiswolski&bg_color=0d1117&color=13a121&line=48194f&point=005b3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
